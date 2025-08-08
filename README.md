@@ -1,3 +1,5 @@
+![Alt text](VEGAPUNK.png)
+
 Taken by the Greatest Scientists
 
     “Just like the legendary minds shaping the future in One Piece, this project harnesses cutting-edge AI technologies to bring you unparalleled power.”
