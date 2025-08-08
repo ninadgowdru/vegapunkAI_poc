@@ -1,4 +1,4 @@
-![Alt text](VEGAPUNK.png)
+![Project Logo](VEGAPUNKAI.png)
 
 Taken by the Greatest Scientists
 
